@@ -1,0 +1,22 @@
+pwd
+ls 
+patterns.txt
+cat patterns.txt 
+
+mv patterns.txt /math/calculus/
+rm triangle.txt.
+cd math
+git init
+git remote add origin [URL]
+cp symmetry.txt math
+git status 
+git add symmetry.txt , git add . 
+git status 
+git commit -m "message"
+git push origin main 
+git branch applied_math
+Switch Branches: Use git checkout applied_math to switch to the branch.
+Push Changes in a New Branch: After adding and committing your changes in the new branch, use git push origin applied_math.
+List All Branches: Use git branch to see all local branches. The current branch will be highlighted.
+Switch Back to the Original Branch: Use git checkout master to switch back.
+Merge Branches: Use git merge applied_math to merge branches.
